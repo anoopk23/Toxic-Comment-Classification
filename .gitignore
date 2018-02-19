@@ -101,7 +101,8 @@ ENV/
 .mypy_cache/
 
 #zips
-.zip
+*.zip
 
 #saved models
-.h5
+*.h5
+models/
